@@ -1,24 +1,53 @@
 import java.io.FileNotFoundException;
-import java.net.ServerSocket;
-import java.net.Socket;
+import java.io.IOException;
+import java.util.ArrayList;
 
-public class PeerProcess implements Runnable{
+public class PeerProcess{
 
-    private Config config;
+    private Peer currentPeer;
     private int thisID;
     private thisLogger log;
-    private Neighbors[] neighbor;
+    private ArrayList<Peer> neighbor;
     private int numberOfNeighbors;
 
-    public PeerProcess(int ID) throws FileNotFoundException {
-        this.thisID = ID;
-        this.config = new Config();
-        log = new thisLogger(thisID);
-        this.numberOfNeighbors = config.getNumberOfPeers() - 1;
-        neighbor = new Neighbors[numberOfNeighbors];
+    public PeerProcess() {
+        this.neighbor = new ArrayList<>();
     }
 
-    @Override
-    public void run(){
+    public ArrayList<Peer> getNeighbor() {
+        return neighbor;
     }
+
+    public void setNeighbor(ArrayList<Peer> neighbor) {
+        this.neighbor = neighbor;
+    }
+
+    public Peer getCurrentPeer() {
+        return currentPeer;
+    }
+
+    public void setCurrentPeer(Peer currentPeer) {
+        this.currentPeer = currentPeer;
+    }
+
+    public static void main(String[] args) throws IOException {
+
+        CommonConfig commonConfig = new CommonConfig();
+        PeerConfig peerconfig = new PeerConfig();
+
+        commonConfig.readFile();
+        peerconfig.readFile();
+
+        PeerProcess peerprocess = new PeerProcess();
+
+        peerconfig.setPeers(peerprocess, "1003");
+
+        peerconfig.FileManager(peerprocess, "1003");
+
+        for(int i=0;i<124;i++){
+            System.out.println(peerprocess.getCurrentPeer().getBitField()[i]);
+        }
+
+    }
+
 }
