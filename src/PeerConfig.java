@@ -2,9 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class PeerConfig {
@@ -52,10 +50,12 @@ public class PeerConfig {
             new_peer.setBitField(new boolean[bufferSize]);
             if(!split[0].equals(myID)){
                 peerProcess.getNeighbor().add(new_peer);
+//                System.out.println(peerProcess.getNeighbor().get(numPeers).getId());
                 numPeers++;
             }
             else{
                 peerProcess.setCurrentPeer(new_peer);
+                peerProcess.setCurrentPeerNo(peerProcess.getNeighbor().size());
             }
         }
         setTotalPeers(numPeers);

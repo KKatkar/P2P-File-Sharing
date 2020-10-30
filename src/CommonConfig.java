@@ -13,12 +13,12 @@ public class CommonConfig {
     private static int numberOfPeers = 0;
     private static int numPiece;
 
-    public CommonConfig() throws FileNotFoundException {
+    public CommonConfig() {
 
     }
 
     public void readFile() throws FileNotFoundException{
-        Scanner scan1 = new Scanner(new FileReader("common.cfg"));
+        Scanner scan1 = new Scanner(new FileReader(System.getProperty("user.dir")+"\\common.cfg"));
         numberOfPreferredNeighbors = Integer.parseInt(scan1.nextLine().trim());
         unchokingInterval = Integer.parseInt(scan1.nextLine().trim());
         optimisticUnchokingInterval= Integer.parseInt(scan1.nextLine().trim());
