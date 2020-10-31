@@ -1,10 +1,10 @@
 import java.io.IOException;
 
-public class MessageProcess implements Runnable{
+public class ProcessMessage implements Runnable{
 
     private PeerProcess peerProcess;
 
-    public MessageProcess(PeerProcess peerProcess){
+    public ProcessMessage(PeerProcess peerProcess){
         super();
         this.setPeerProcess(peerProcess);
     }
@@ -14,7 +14,7 @@ public class MessageProcess implements Runnable{
         try {
             for (; !this.getPeerProcess().isEnd();) {
                 for (; !this.getPeerProcess().getBlockMessages().isEmpty();) {
-                    MessageWriter ms = this.getPeerProcess().getBlockMessages().take();
+                    WriteMessage ms = this.getPeerProcess().getBlockMessages().take();
                     ms.write();
                 }
             }

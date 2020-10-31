@@ -2,15 +2,15 @@ import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 
-public class MessageWriter {
+public class WriteMessage {
 
     private Handshake message;
     private DataOutputStream outputStream;
 
-    public MessageWriter(Handshake handshake, DataOutputStream outStream) {
+    public WriteMessage(Handshake handshake, DataOutputStream outStream) {
 
-        this.message = handshake;
-        this.outputStream = outStream;
+        this.setMessage(handshake);
+        this.setOutputStream(outStream);
     }
 
     public void write() throws IOException {
@@ -20,7 +20,8 @@ public class MessageWriter {
         bos.write(handShakeMessage.getHeader(), 0, handShakeMessage.getHeader().length);
         bos.write(handShakeMessage.getZeroBits(), 0, handShakeMessage.getZeroBits().length);
         bos.write(handShakeMessage.getPeerID(), 0, handShakeMessage.getPeerID().length);
-        bos.flush();
+        this.getOutputStream().write(bos.toByteArray());
+        this.getOutputStream().flush();
     }
 
     public Handshake getMessage() {
@@ -29,5 +30,13 @@ public class MessageWriter {
 
     public void setMessage(Handshake message) {
         this.message = message;
+    }
+
+    public DataOutputStream getOutputStream() {
+        return outputStream;
+    }
+
+    public void setOutputStream(DataOutputStream outputStream) {
+        this.outputStream = outputStream;
     }
 }

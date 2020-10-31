@@ -50,7 +50,7 @@ public class PeerConfig {
             new_peer.setBitField(new boolean[bufferSize]);
             if(!split[0].equals(myID)){
                 peerProcess.getNeighbor().add(new_peer);
-//                System.out.println(peerProcess.getNeighbor().get(numPeers).getId());
+                System.out.println("peers:"+peerProcess.getNeighbor().get(numPeers).getId());
                 numPeers++;
             }
             else{

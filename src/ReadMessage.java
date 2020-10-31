@@ -8,10 +8,9 @@ public class ReadMessage {
     private PeerProcess peerProc;
     private boolean isHandshakeDone = false;
 
-    public ReadMessage(Socket socket, PeerProcess peerProcess){
-        this.socket = socket;
+    public ReadMessage(Socket soc, PeerProcess peerProcess){
+        this.setSocket(soc);
         this.peerProc = peerProcess;
-
     }
 
     public Socket getSocket() {

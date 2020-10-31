@@ -4,7 +4,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Random;
+import java.util.Iterator;
 import java.util.concurrent.*;
 
 public class PeerProcess{
@@ -16,7 +16,7 @@ public class PeerProcess{
     private ArrayList<Peer> neighbor;
     private int numberOfNeighbors, currentPeerNo;
     private HashMap<Peer, Socket> peerSocketHashMap;
-    private BlockingQueue<MessageWriter> blockMessages;
+    private BlockingQueue<WriteMessage> blockMessages;
     private ServerSocket serverSocket;
     private volatile boolean end = false;
     private Future<?> messageQueueTask;
@@ -28,7 +28,7 @@ public class PeerProcess{
     public PeerProcess() {
         this.neighbor = new ArrayList<>();
         this.peerSocketHashMap = new HashMap<>();
-        this.blockMessages = new LinkedBlockingQueue<MessageWriter>();
+        this.blockMessages = new LinkedBlockingQueue<WriteMessage>();
     }
 
     public ArrayList<Peer> getNeighbor() {
@@ -63,11 +63,11 @@ public class PeerProcess{
     }
 
 
-    public BlockingQueue<MessageWriter> getBlockMessages() {
+    public BlockingQueue<WriteMessage> getBlockMessages() {
         return blockMessages;
     }
 
-    public void setBlockMessages(BlockingQueue<MessageWriter> blockMessages) {
+    public void setBlockMessages(BlockingQueue<WriteMessage> blockMessages) {
         this.blockMessages = blockMessages;
     }
     public boolean isEnd() {
@@ -80,6 +80,7 @@ public class PeerProcess{
 
     public void setConnection(PeerProcess peerProcess){
         int indexI = 0;
+        System.out.println("Current peer no :" + getCurrentPeerNo());
         while (this.getCurrentPeerNo() != 0 && indexI <= this.getCurrentPeerNo() - 1) {
             Peer peer =  peerProcess.getNeighbor().get(indexI);
             Socket socket;
@@ -96,18 +97,55 @@ public class PeerProcess{
         }
     }
     public void createServerSocket(int portNo) throws IOException {
-        ExecutorService exec = Executors.newFixedThreadPool(4);
-        this.setMessageQueueTask(exec.submit(new MessageProcess(PeerProcess.this)));
-        this.setServerSocket(new ServerSocket(portNo));
+        ExecutorService exec = Executors.newFixedThreadPool(2);
 
-        while(!isEnd()){
-            Socket serSocket =this.getServerSocket().accept();
-            Peer temp = this.getNeighbor().get(0);
-            new Thread(new ConnectionManager(this, temp, false)).start();
+        try {
+            this.setMessageQueueTask(exec.submit(new ProcessMessage(this)));
+            System.out.println("Create server Socket :" + this.currentPeer.getId());
+            this.setServerSocket(new ServerSocket(portNo));
+
+            while (!isEnd()) {
+                Socket serSocket = this.getServerSocket().accept();
+                Peer temp = this.getNeighbor().get(0);
+                System.out.println("Neighbor port number"+temp.getPort());
+                this.getPeerSocketHashMap()
+                        .put(this.getNeighbor().get(this.getNeighbor().indexOf(temp)), serSocket);
+
+                new Thread(new ConnectionManager(this, temp, false)).start();
+            }
+        }
+        catch (Exception e){
+            e.printStackTrace();
+            return;
+        }
+        finally {
+            try{
+                while(!exec.isTerminated()){
+                    while(!this.getBlockMessages().isEmpty()){
+
+                    }
+                    this.getMessageQueueTask().cancel(false);
+                    exec.awaitTermination(1,TimeUnit.SECONDS);
+
+                    Iterator iter =this.getPeerSocketHashMap().values().iterator();
+
+                    while(iter.hasNext()){
+                        Socket s = (Socket) iter.next();
+                        if(!s.isClosed()){
+                            s.close();
+                        }
+                    }
+                }
+                this.getServerSocket().close();
+
+            }catch (Exception e){
+                e.printStackTrace();
+                return;
+            }
         }
 
 
-    }
+            }
     public void beginRun(){
         CommonConfig commonConfig = null;
         PeerConfig peerconfig = null;
@@ -116,7 +154,7 @@ public class PeerProcess{
             peerconfig = new PeerConfig();
             commonConfig = new CommonConfig();
             commonConfig.readFile();
-//            peerconfig.readFile();
+            peerconfig.readFile();
             peerconfig.setPeers(peerProcess, peerIDx);
             peerconfig.FileManager(peerProcess, peerIDx);
             peerProcess.setConnection(peerProcess);

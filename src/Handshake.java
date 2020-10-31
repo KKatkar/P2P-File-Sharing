@@ -8,6 +8,7 @@ public class Handshake{
     private byte[] header;
     private byte[] zeroBits;
     private byte[] peerID;
+    private int peeridentity;
 
     public Handshake(int peerId) {
 
@@ -17,6 +18,7 @@ public class Handshake{
         }
         this.setPeerID(new byte[4]);
         this.setPeerID(ByteBuffer.allocate(4).putInt(peerId).array());
+        peeridentity = peerId;
         this.setZeroBits(new byte[10]);
         for(int i=0; i < 10; i++) {
             this.getZeroBits()[i] = (byte) 0;
@@ -53,6 +55,6 @@ public class Handshake{
 
     @Override
     public String toString() {
-        return "HandShake [peerID=" + Arrays.toString(this.getPeerID()) + "]";
+        return "HandShake [peerID=" + peeridentity + "]";
     }
 }

@@ -31,7 +31,6 @@ public class CommonConfig {
             this.numPiece = this.fileSize/this.pieceSize;
         else
             this.numPiece =  this.fileSize/this.pieceSize + 1;
-        System.out.println(numPiece);
     }
 
     public int getNumberOfPreferredNeighbors() {

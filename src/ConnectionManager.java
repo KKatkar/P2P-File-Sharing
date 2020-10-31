@@ -18,8 +18,10 @@ public class ConnectionManager implements  Runnable{
 
         this.setPeerProc(peerProc);
         this.setSocket(peerProc.getPeerSocketHashMap().get(peer));
+        System.out.println("socket read port for the server"+peerProc.getPeerSocketHashMap().get(peer));
         this.setInitiateHandShake(initiateHandShake);
         this.setMessageRead(new ReadMessage(this.getSocket(), peerProc));
+        //System.out.println("Connection Manager Setmessageread : "+ this.getSocket().getPort());
 //        this.getSocket().setSoLinger(true, 70);
         this.setPeer(peer);
 
@@ -32,7 +34,8 @@ public class ConnectionManager implements  Runnable{
     private void sendHandshake() {
         Handshake handShake = new Handshake(peerProc.getCurrentPeer().getId());
         try {
-            this.peerProc.getBlockMessages().put(new MessageWriter(handShake, new DataOutputStream(socket.getOutputStream())));
+            this.peerProc.getBlockMessages().put(new WriteMessage(handShake,
+                    new DataOutputStream(socket.getOutputStream())));
         } catch (InterruptedException | IOException e) {
             e.printStackTrace();
         }
@@ -43,11 +46,14 @@ public class ConnectionManager implements  Runnable{
         while(!this.getPeerProc().isEnd()){
             try {
                 startTime = System.currentTimeMillis();
-                System.out.println("In Connection managaer" +peerProc.getCurrentPeer().getId() +" "+this.peer.getId());
+                System.out.println("Read the Message"+this.getSocket());
                 Handshake obj =  messageRead.read();
                 endTime = System.currentTimeMillis();
                 if (ByteBuffer.wrap(obj.getPeerID()).getInt() == this.peer.getId()) {
                     System.out.println("HandSHake done!!!!");
+                }else
+                {
+                    System.out.println("Handshake peer same");
                 }
             } catch (Exception e) {
                 e.printStackTrace();
