@@ -15,6 +15,7 @@ public class PeerProcess{
     private thisLogger log;
     private ArrayList<Peer> neighbor;
     private int numberOfNeighbors, currentPeerNo;
+    private PriorityQueue<DownloadingRate> unchokeDownloadRateQueue;
     private HashMap<Peer, Socket> peerSocketHashMap;
     private BlockingQueue<WriteMessage> blockMessages;
     private ServerSocket serverSocket;
@@ -183,5 +184,14 @@ public class PeerProcess{
 
     public void setMessageQueueTask(Future<?> messageQueueTask) {
         this.messageQueueTask = messageQueueTask;
+    }
+
+    //for Unchoking
+    public void setUnchokeDownloadRateQueue(PriorityQueue<DownloadingRate> unchokeDownloadRateQueue){
+        this.unchokeDownloadRateQueue = unchokeDownloadRateQueue;
+    }
+
+    public PriorityQueue<DownloadingRate> getUnchokeDownloadRateQueue() {
+        return unchokeDownloadRateQueue;
     }
 }
