@@ -1,0 +1,3959 @@
+Fri Dec 11 21:04:02 EST 2020 : Peer 1005 makes a connection to Peer 1001.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 makes a connection to Peer 1002.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 makes a connection to Peer 1003.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 makes a connection to Peer 1004.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 is 'unchoked' by Peer 1004.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 is 'unchoked' by Peer 1002
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 is 'choked' by Peer 1001.
+
+Fri Dec 11 21:04:03 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 10.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 114.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 291.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 85 from Peer 1004.
+Now  the number of pieces it has is 1
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 221 from Peer 1004.
+Now  the number of pieces it has is 2
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 66.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 9 from Peer 1004.
+Now  the number of pieces it has is 3
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 248 from Peer 1004.
+Now  the number of pieces it has is 4
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 67.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 45 from Peer 1004.
+Now  the number of pieces it has is 5
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 212.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 190 from Peer 1004.
+Now  the number of pieces it has is 6
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 284.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 165 from Peer 1004.
+Now  the number of pieces it has is 7
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 209.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 228 from Peer 1004.
+Now  the number of pieces it has is 8
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 125.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 10 from Peer 1004.
+Now  the number of pieces it has is 9
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 300 from Peer 1003.
+Now  the number of pieces it has is 10
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 223 from Peer 1004.
+Now  the number of pieces it has is 11
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 126.
+
+Fri Dec 11 21:04:04 EST 2020 : Peer 1005 has downloaded the piece 298 from Peer 1003.
+Now  the number of pieces it has is 12
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 302 from Peer 1004.
+Now  the number of pieces it has is 13
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 276 from Peer 1003.
+Now  the number of pieces it has is 14
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 225 from Peer 1002.
+Now  the number of pieces it has is 15
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 213 from Peer 1003.
+Now  the number of pieces it has is 16
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 253 from Peer 1004.
+Now  the number of pieces it has is 17
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 134.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 160 from Peer 1002.
+Now  the number of pieces it has is 18
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 82 from Peer 1004.
+Now  the number of pieces it has is 19
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 22 from Peer 1003.
+Now  the number of pieces it has is 20
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 143 from Peer 1004.
+Now  the number of pieces it has is 21
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 107.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 31 from Peer 1002.
+Now  the number of pieces it has is 22
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 238.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 203 from Peer 1003.
+Now  the number of pieces it has is 23
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 113 from Peer 1002.
+Now  the number of pieces it has is 24
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 105 from Peer 1004.
+Now  the number of pieces it has is 25
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 244 from Peer 1002.
+Now  the number of pieces it has is 26
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 291 from Peer 1003.
+Now  the number of pieces it has is 27
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 125 from Peer 1002.
+Now  the number of pieces it has is 28
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 47 from Peer 1004.
+Now  the number of pieces it has is 29
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 23.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 23 from Peer 1002.
+Now  the number of pieces it has is 30
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 174 from Peer 1003.
+Now  the number of pieces it has is 31
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 208 from Peer 1002.
+Now  the number of pieces it has is 32
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 207 from Peer 1004.
+Now  the number of pieces it has is 33
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 280 from Peer 1002.
+Now  the number of pieces it has is 34
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 86 from Peer 1003.
+Now  the number of pieces it has is 35
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 152 from Peer 1002.
+Now  the number of pieces it has is 36
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 172 from Peer 1004.
+Now  the number of pieces it has is 37
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 68.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 90 from Peer 1002.
+Now  the number of pieces it has is 38
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 29 from Peer 1003.
+Now  the number of pieces it has is 39
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 75 from Peer 1002.
+Now  the number of pieces it has is 40
+
+Fri Dec 11 21:04:05 EST 2020 : Peer 1005 has downloaded the piece 136 from Peer 1004.
+Now  the number of pieces it has is 41
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 96 from Peer 1003.
+Now  the number of pieces it has is 42
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 236.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 46 from Peer 1004.
+Now  the number of pieces it has is 43
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 7 from Peer 1002.
+Now  the number of pieces it has is 44
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 129 from Peer 1004.
+Now  the number of pieces it has is 45
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 267.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 69.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 61.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 204 from Peer 1003.
+Now  the number of pieces it has is 46
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 15.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 215.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 173 from Peer 1002.
+Now  the number of pieces it has is 47
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 249 from Peer 1003.
+Now  the number of pieces it has is 48
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 76 from Peer 1004.
+Now  the number of pieces it has is 49
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 192 from Peer 1003.
+Now  the number of pieces it has is 50
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 42 from Peer 1002.
+Now  the number of pieces it has is 51
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 158.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 162 from Peer 1003.
+Now  the number of pieces it has is 52
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 127 from Peer 1004.
+Now  the number of pieces it has is 53
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 259.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 3.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 95 from Peer 1003.
+Now  the number of pieces it has is 54
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 294 from Peer 1002.
+Now  the number of pieces it has is 55
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 206 from Peer 1004.
+Now  the number of pieces it has is 56
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 269.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 43 from Peer 1003.
+Now  the number of pieces it has is 57
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 118 from Peer 1004.
+Now  the number of pieces it has is 58
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 285 from Peer 1002.
+Now  the number of pieces it has is 59
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 52 from Peer 1004.
+Now  the number of pieces it has is 60
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 222 from Peer 1003.
+Now  the number of pieces it has is 61
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 110 from Peer 1004.
+Now  the number of pieces it has is 62
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 50.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 133 from Peer 1002.
+Now  the number of pieces it has is 63
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 104 from Peer 1003.Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 285.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+
+Now  the number of pieces it has is 64
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 103 from Peer 1002.
+Now  the number of pieces it has is 65
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 269.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 242.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:06 EST 2020 : Peer 1005 has downloaded the piece 264 from Peer 1003.
+Now  the number of pieces it has is 66
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 292 from Peer 1002.
+Now  the number of pieces it has is 67
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 58 from Peer 1004.
+Now  the number of pieces it has is 68
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 158.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 203.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 69 from Peer 1002.
+Now  the number of pieces it has is 69
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 224.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 210 from Peer 1003.
+Now  the number of pieces it has is 70
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 232 from Peer 1002.
+Now  the number of pieces it has is 71
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 227 from Peer 1004.
+Now  the number of pieces it has is 72
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 78 from Peer 1002.
+Now  the number of pieces it has is 73
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 12.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 272.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 187.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 139 from Peer 1003.
+Now  the number of pieces it has is 74
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 256.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 147 from Peer 1002.
+Now  the number of pieces it has is 75
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 93 from Peer 1003.
+Now  the number of pieces it has is 76
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 114 from Peer 1004.
+Now  the number of pieces it has is 77
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 238 from Peer 1003.
+Now  the number of pieces it has is 78
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 197 from Peer 1002.
+Now  the number of pieces it has is 79
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 241 from Peer 1003.
+Now  the number of pieces it has is 80
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 168 from Peer 1004.
+Now  the number of pieces it has is 81
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 234 from Peer 1002.
+Now  the number of pieces it has is 82
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 49.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 141.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 274.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 281 from Peer 1003.
+Now  the number of pieces it has is 83
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 181.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 229 from Peer 1002.
+Now  the number of pieces it has is 84
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 236 from Peer 1003.
+Now  the number of pieces it has is 85
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 295 from Peer 1004.
+Now  the number of pieces it has is 86
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 256 from Peer 1002.
+Now  the number of pieces it has is 87
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 128 from Peer 1003.
+Now  the number of pieces it has is 88
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 22.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 135 from Peer 1002.
+Now  the number of pieces it has is 89
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 237.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 158 from Peer 1003.
+Now  the number of pieces it has is 90
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 17 from Peer 1002.
+Now  the number of pieces it has is 91
+
+Fri Dec 11 21:04:07 EST 2020 : Peer 1005 has downloaded the piece 267 from Peer 1004.
+Now  the number of pieces it has is 92
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 40 from Peer 1002.
+Now  the number of pieces it has is 93
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 199.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 71 from Peer 1003.
+Now  the number of pieces it has is 94
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 39 from Peer 1002.
+Now  the number of pieces it has is 95
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 161 from Peer 1004.
+Now  the number of pieces it has is 96
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 208.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 83 from Peer 1002.
+Now  the number of pieces it has is 97
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 92 from Peer 1003.
+Now  the number of pieces it has is 98
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 155.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 212 from Peer 1004.
+Now  the number of pieces it has is 99
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 32.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 210.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 230 from Peer 1002.
+Now  the number of pieces it has is 100
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 1 from Peer 1004.
+Now  the number of pieces it has is 101
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 141 from Peer 1003.
+Now  the number of pieces it has is 102
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 59 from Peer 1004.
+Now  the number of pieces it has is 103
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 146.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 89.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 108 from Peer 1002.
+Now  the number of pieces it has is 104
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 32.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 298.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 209 from Peer 1004.
+Now  the number of pieces it has is 105
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 276.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 57.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 117.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 292.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 171 from Peer 1003.
+Now  the number of pieces it has is 106
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 159 from Peer 1004.
+Now  the number of pieces it has is 107
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 258.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 305 from Peer 1002.
+Now  the number of pieces it has is 108
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 67 from Peer 1004.
+Now  the number of pieces it has is 109
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 7.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 43.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 116.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 128.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 70 from Peer 1003.
+Now  the number of pieces it has is 110
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'interested' message from Peer 1004.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 28 from Peer 1002.
+Now  the number of pieces it has is 111
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 39.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 31.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 57 from Peer 1003.
+Now  the number of pieces it has is 112
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 98 from Peer 1002.
+Now  the number of pieces it has is 113
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 121 from Peer 1004.
+Now  the number of pieces it has is 114
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 175.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 189 from Peer 1002.
+Now  the number of pieces it has is 115
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 178 from Peer 1003.
+Now  the number of pieces it has is 116
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 133.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 25.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 222.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 98.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 145.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 120 from Peer 1002.
+Now  the number of pieces it has is 117
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 71.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 19 from Peer 1003.
+Now  the number of pieces it has is 118
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 62 from Peer 1002.
+Now  the number of pieces it has is 119
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 191.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 163 from Peer 1004.
+Now  the number of pieces it has is 120
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 294.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 193.
+
+Fri Dec 11 21:04:08 EST 2020 : Peer 1005 has downloaded the piece 240 from Peer 1002.
+Now  the number of pieces it has is 121
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 219 from Peer 1003.
+Now  the number of pieces it has is 122
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 245.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 73 from Peer 1002.
+Now  the number of pieces it has is 123
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 284 from Peer 1004.
+Now  the number of pieces it has is 124
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 88.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 198 from Peer 1002.
+Now  the number of pieces it has is 125
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 183 from Peer 1003.
+Now  the number of pieces it has is 126
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 251.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 287 from Peer 1002.
+Now  the number of pieces it has is 127
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 53 from Peer 1004.
+Now  the number of pieces it has is 128
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 140 from Peer 1002.
+Now  the number of pieces it has is 129
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 145 from Peer 1003.
+Now  the number of pieces it has is 130
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 65 from Peer 1002.
+Now  the number of pieces it has is 131
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 149 from Peer 1004.
+Now  the number of pieces it has is 132
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 95.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 20.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 15 from Peer 1002.
+Now  the number of pieces it has is 133
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 13.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 126 from Peer 1003.
+Now  the number of pieces it has is 134
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 231.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 14 from Peer 1004.
+Now  the number of pieces it has is 135
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 160.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 115.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 131.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 251.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 199.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 162.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 265 from Peer 1003.
+Now  the number of pieces it has is 136
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 167.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 28.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 196.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 196 from Peer 1002.
+Now  the number of pieces it has is 137
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 128.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 199 from Peer 1003.
+Now  the number of pieces it has is 138
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 134 from Peer 1004.
+Now  the number of pieces it has is 139
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 4.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 200.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 252.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 49 from Peer 1003.
+Now  the number of pieces it has is 140
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 262.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 197.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 182.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 54.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 296 from Peer 1002.
+Now  the number of pieces it has is 141
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 100.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 243.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 277 from Peer 1003.
+Now  the number of pieces it has is 142
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 234.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 156 from Peer 1002.
+Now  the number of pieces it has is 143
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 35 from Peer 1003.
+Now  the number of pieces it has is 144
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 39.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'interested' message from Peer 1003.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 167 from Peer 1002.
+Now  the number of pieces it has is 145
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 56 from Peer 1004.
+Now  the number of pieces it has is 146
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 293 from Peer 1002.
+Now  the number of pieces it has is 147
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 205.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 107 from Peer 1004.
+Now  the number of pieces it has is 148
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 247.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 177.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 289.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 132 from Peer 1003.
+Now  the number of pieces it has is 149
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 296.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 140.
+
+Fri Dec 11 21:04:09 EST 2020 : Peer 1005 has downloaded the piece 20 from Peer 1002.
+Now  the number of pieces it has is 150
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 175.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 306 from Peer 1004.
+Now  the number of pieces it has is 151
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 204.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 139.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 271.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 156.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 106.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 231.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 70.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 119 from Peer 1002.
+Now  the number of pieces it has is 152
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 37 from Peer 1003.
+Now  the number of pieces it has is 153
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 275.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 27.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 37.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 169 from Peer 1002.
+Now  the number of pieces it has is 154
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 154.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 30.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 181 from Peer 1003.
+Now  the number of pieces it has is 155
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 205 from Peer 1002.
+Now  the number of pieces it has is 156
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 61 from Peer 1004.
+Now  the number of pieces it has is 157
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 179.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 194 from Peer 1002.
+Now  the number of pieces it has is 158
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 26 from Peer 1003.
+Now  the number of pieces it has is 159
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 81 from Peer 1002.
+Now  the number of pieces it has is 160
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 6 from Peer 1004.
+Now  the number of pieces it has is 161
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 293.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 72 from Peer 1002.
+Now  the number of pieces it has is 162
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 8 from Peer 1003.
+Now  the number of pieces it has is 163
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 144 from Peer 1002.
+Now  the number of pieces it has is 164
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'interested' message from Peer 1002.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 3 from Peer 1004.
+Now  the number of pieces it has is 165
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 140.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 170 from Peer 1002.
+Now  the number of pieces it has is 166
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 171.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 78.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 119.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 240.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 92.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 272 from Peer 1003.
+Now  the number of pieces it has is 167
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 259 from Peer 1004.
+Now  the number of pieces it has is 168
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 148 from Peer 1003.
+Now  the number of pieces it has is 169
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 282.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 215 from Peer 1004.
+Now  the number of pieces it has is 170
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 286 from Peer 1002.
+Now  the number of pieces it has is 171
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 243.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 96.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 30 from Peer 1003.
+Now  the number of pieces it has is 172
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 275.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 294.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 is connected from Peer 1007.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 282 from Peer 1002.
+Now  the number of pieces it has is 173
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 242 from Peer 1004.
+Now  the number of pieces it has is 174
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 24 from Peer 1003.
+Now  the number of pieces it has is 175
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 104.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 73.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 277.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 178.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'interested' message from Peer 1007.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 194.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 179 from Peer 1002.
+Now  the number of pieces it has is 176
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 269 from Peer 1003.
+Now  the number of pieces it has is 177
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 50 from Peer 1004.
+Now  the number of pieces it has is 178
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 62.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 has downloaded the piece 137 from Peer 1003.
+Now  the number of pieces it has is 179
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 273.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 195.
+
+Fri Dec 11 21:04:10 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 152.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 100.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 233 from Peer 1002.
+Now  the number of pieces it has is 180
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 193 from Peer 1003.
+Now  the number of pieces it has is 181
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 287.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 155.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 232.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 27 from Peer 1002.
+Now  the number of pieces it has is 182
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 176.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 234.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 72.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 146 from Peer 1002.
+Now  the number of pieces it has is 183
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 169.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 106 from Peer 1003.
+Now  the number of pieces it has is 184
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 286.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 183.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 171.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 99.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 230.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 189.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 66 from Peer 1002.
+Now  the number of pieces it has is 185
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 19.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 137.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 89 from Peer 1003.
+Now  the number of pieces it has is 186
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 262.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 204.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 219.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 185.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 151.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 297.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 88 from Peer 1003.
+Now  the number of pieces it has is 187
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 263 from Peer 1004.
+Now  the number of pieces it has is 188
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 245.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 25 from Peer 1002.
+Now  the number of pieces it has is 189
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 81.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 170.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 297.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 200 from Peer 1003.
+Now  the number of pieces it has is 190
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 176 from Peer 1002.
+Now  the number of pieces it has is 191
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 132.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 148.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 187 from Peer 1003.
+Now  the number of pieces it has is 192
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 34 from Peer 1004.
+Now  the number of pieces it has is 193
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 147.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 117 from Peer 1002.
+Now  the number of pieces it has is 194
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 195.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 195 from Peer 1003.
+Now  the number of pieces it has is 195
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 35.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 68 from Peer 1004.
+Now  the number of pieces it has is 196
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 148.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 182 from Peer 1002.
+Now  the number of pieces it has is 197
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 12 from Peer 1004.
+Now  the number of pieces it has is 198
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 188.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 224.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 282.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 280.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 189.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 44.
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 261 from Peer 1003.
+Now  the number of pieces it has is 199
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 289 from Peer 1002.
+Now  the number of pieces it has is 200
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 155 from Peer 1003.
+Now  the number of pieces it has is 201
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 has downloaded the piece 115 from Peer 1002.
+Now  the number of pieces it has is 202
+
+Fri Dec 11 21:04:11 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 120.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 201.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 2.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 44.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 83.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 86.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 243.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 26.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 40.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 151 from Peer 1002.
+Now  the number of pieces it has is 203
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 135.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 224 from Peer 1003.
+Now  the number of pieces it has is 204
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 192.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 1.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 201.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 154 from Peer 1002.
+Now  the number of pieces it has is 205
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 191.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 116 from Peer 1004.
+Now  the number of pieces it has is 206
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 261.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 266.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 298.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 188 from Peer 1003.
+Now  the number of pieces it has is 207
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 210.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 217 from Peer 1002.
+Now  the number of pieces it has is 208
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 188.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'interested' message from Peer 1002.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 252 from Peer 1003.
+Now  the number of pieces it has is 209
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 is connected from Peer 1008.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 40.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 32 from Peer 1003.
+Now  the number of pieces it has is 210
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'interested' message from Peer 1008.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 32 from Peer 1004.
+Now  the number of pieces it has is 211
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 298.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 65.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 44 from Peer 1003.
+Now  the number of pieces it has is 212
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 11 from Peer 1002.
+Now  the number of pieces it has is 213
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 152.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 11.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 233.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 35.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 217.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1003.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 has downloaded the piece 131 from Peer 1002.
+Now  the number of pieces it has is 214
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 222.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 303.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 185.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 225.
+
+Fri Dec 11 21:04:12 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 274.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 201 from Peer 1002.
+Now  the number of pieces it has is 215
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 225.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 194.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 132.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 100 from Peer 1003.
+Now  the number of pieces it has is 216
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has 'optimistically unchoked' neighbour Peer 1007.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 is 'choked' by Peer 1004.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 233.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 54 from Peer 1002.
+Now  the number of pieces it has is 217
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 299.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 237 from Peer 1003.
+Now  the number of pieces it has is 218
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 170.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 271 from Peer 1002.
+Now  the number of pieces it has is 219
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 92.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1002.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1003 for the piece 2.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 98.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 266 from Peer 1002.
+Now  the number of pieces it has is 220
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 215.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 275 from Peer 1002.
+Now  the number of pieces it has is 221
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 176.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 13 from Peer 1003.
+Now  the number of pieces it has is 222
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 265.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 99.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 219.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 191 from Peer 1002.
+Now  the number of pieces it has is 223
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 71.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 303.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 79.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 137.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 303 from Peer 1003.
+Now  the number of pieces it has is 224
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 240.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 133.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 219.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 has downloaded the piece 251 from Peer 1002.
+Now  the number of pieces it has is 225
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 154.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 260.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 119.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 194.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 84.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 229.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 265.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 158.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 24.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 43.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 8.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 294.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 60.
+
+Fri Dec 11 21:04:13 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 185.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 301.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 298.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 272.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 176.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 has downloaded the piece 4 from Peer 1003.
+Now  the number of pieces it has is 226
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 183.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 223.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 has downloaded the piece 231 from Peer 1002.
+Now  the number of pieces it has is 227
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 17.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 183.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 71.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 has downloaded the piece 258 from Peer 1004.
+Now  the number of pieces it has is 228
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 13.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 155.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 194.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 169.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 232.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 205.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 1.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 199.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 299.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 22.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 152.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 55.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 244.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 240.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 138.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 215.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 230.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 108.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 287.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 has downloaded the piece 175 from Peer 1002.
+Now  the number of pieces it has is 229
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 43.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 189.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 98.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 85.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 52.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 19.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 274.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 187.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 229.
+
+Fri Dec 11 21:04:14 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 228.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 42.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 168.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 70.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 230.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 40.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 184.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 273.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 232.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 208.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 81.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 219.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 306.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 65.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 176.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'interested' message from Peer 1003.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 64.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 217.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 155.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 250.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 has downloaded the piece 243 from Peer 1003.
+Now  the number of pieces it has is 230
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 275.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 16.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 293.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 32.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 170.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 83.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 143.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 233.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 222.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 133.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 147.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 287.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 139.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 144.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 231.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 has downloaded the piece 99 from Peer 1003.
+Now  the number of pieces it has is 231
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 210.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 95.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 252.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 269.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 118.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 121.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 256.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 140.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 300.
+
+Fri Dec 11 21:04:15 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 193.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 113.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 61.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 44.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 178.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 12.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 302.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 175.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 has downloaded the piece 262 from Peer 1004.
+Now  the number of pieces it has is 232
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 245.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 13.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 127.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 208.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 79.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 89.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 202.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 162.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 146.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 128.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 has downloaded the piece 60 from Peer 1003.
+Now  the number of pieces it has is 233
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 102.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 60.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 9.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 187.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 161.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 196.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 270.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 281.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 264.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 177.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 86.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 276.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 216.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 181.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 280.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 277.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 277.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 204.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 225.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 has downloaded the piece 297 from Peer 1003.
+Now  the number of pieces it has is 234
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 293.
+
+Fri Dec 11 21:04:16 EST 2020 : Peer 1005 is connected from Peer 1009.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'interested' message from Peer 1009.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 76.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 126.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 285.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 221.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 116.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 289.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 9.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 192.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 26.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 171.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 281.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 10.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 92.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 243.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 284.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 237.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 96.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 2.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 73.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 207.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 65.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 162.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 282.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 258.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 50.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 81.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 179.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 224.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 147.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 13.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 129.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 103.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 20.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 47.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 88.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 125.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 has downloaded the piece 247 from Peer 1002.
+Now  the number of pieces it has is 235
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 95.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 11.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 128.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 18.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 113.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 103.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 53.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 300.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 149.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 25.
+
+Fri Dec 11 21:04:17 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 185.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 49.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 20.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 63.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 30.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 261.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 143.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 195.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 133.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 88.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 272.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 236.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 7.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 223.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 289.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 82.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 164.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 249.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 1.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 27.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 184.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 294.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 72.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 214.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 32.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 121.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 24.
+
+Fri Dec 11 21:04:18 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 56.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 35.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 139.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 206.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 110.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 189.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 168.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 200.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 112.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 291.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 14.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 207.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 129.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 251.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 9.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 163.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 7.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 285.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 175.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 232.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 109.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 68.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 159.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 282.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 70.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 90.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 68.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 64.
+
+Fri Dec 11 21:04:19 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 242.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 305.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 232.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 85.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 79.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 78.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 274.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 174.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 6.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 90.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 173.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 31.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 190.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 259.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 295.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 183.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 181.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 98.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 154.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 270.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 193.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 has downloaded the piece 177 from Peer 1004.
+Now  the number of pieces it has is 236
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 96.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 144.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 75.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 269.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 201.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 62.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 230.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 293.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 54.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 260.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 32.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 139.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 29.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 47.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 224.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 92.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 259.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 66.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 118.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 228.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 277.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 16.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 19.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 149.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 119.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 161.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 164.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 165.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 146.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 has downloaded the piece 245 from Peer 1002.
+Now  the number of pieces it has is 237
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 13.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 23.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 67.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 266.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 306.
+
+Fri Dec 11 21:04:20 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 66.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 134.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 261.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 262.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 22.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 76.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 34.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 127.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 244.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 145.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 24.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 271.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 12.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 274.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 26.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 273.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 248.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 93.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 has downloaded the piece 273 from Peer 1002.
+Now  the number of pieces it has is 238
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 129.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 174.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 57.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 58.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 265.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 104.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 292.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 113.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 4.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 96.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 81.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 276.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 245.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 143.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 84.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 42.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 134.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 44.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 250.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 209.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 84.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 108.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 86.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 172.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 114.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 91.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 155.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 67.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 306.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 280.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 213.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 213.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 8.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 169.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 296.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 294.
+
+Fri Dec 11 21:04:21 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 15.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 37.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 306.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 52.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 182.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 159.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 136.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 158.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 110.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 247.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 267.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 216.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 217.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 39.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 167.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 44.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 47.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 301.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 149.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 174.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 has downloaded the piece 274 from Peer 1002.
+Now  the number of pieces it has is 239
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 43.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 145.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 253.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 176.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 296.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 288.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 50.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 has downloaded the piece 185 from Peer 1002.
+Now  the number of pieces it has is 240
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 45.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 203.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 73.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 241.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 169.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 224.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 55.
+
+Fri Dec 11 21:04:22 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 29.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 214.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 141.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 106.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 301.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 118.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 89.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 271.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 205.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 103.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 183.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 199.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 248.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 237.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 72.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 7.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 105.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 160.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 177.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 99.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 200.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 135.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 251.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 83.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 203.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 164.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 119.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 201.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 10.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 61.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 3.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 188.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 49.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 102.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 244.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 247.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 196.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 121.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 20.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 171.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 212.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 205.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 56.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 120.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 100.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 56.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 152.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 54.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 261.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 156.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 151.
+
+Fri Dec 11 21:04:23 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 185.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 153.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 195.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 197.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 181.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 158.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 has downloaded the piece 2 from Peer 1004.
+Now  the number of pieces it has is 241
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 115.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 208.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 277.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 281.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 163.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 243.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 29.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 117.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 79.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 59.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 286.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 287.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 200.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 41.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 145.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 26.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 193.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 233.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 204.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 245.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 12.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 202.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 260.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 298.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 212.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 131.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 299.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 35.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 256.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 234.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 57.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 286.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 138.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 82.
+
+Fri Dec 11 21:04:24 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 295.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 237.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 279.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 225.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 154.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 168.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 27.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 10.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 276.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 188.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 106.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 114.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 259.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 17.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 235.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 138.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 76.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 238.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 284.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 18.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 171.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 131.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 299.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 192.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 258.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 263.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 209.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 120.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 267.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 95.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 186.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 178.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 2.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 75.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 14.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 62.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 14.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 295.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 28.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 247.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 128.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 305.
+
+Fri Dec 11 21:04:25 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 31.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 219.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 234.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 292.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 83.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 170.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 199.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 35.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 134.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 177.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 62.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 130.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 297.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 249.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 191.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 51.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 156.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 114.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 125.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 182.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 71.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 54.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 92.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 93.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 140.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 17.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 55.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 91.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 has downloaded the piece 260 from Peer 1008.
+Now  the number of pieces it has is 242
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 201.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 165.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 187.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 187.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 203.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 240.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 162.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 50.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 2.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 140.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 217.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 75.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 190.
+
+Fri Dec 11 21:04:26 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 227.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 191.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 107.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 23.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 257.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 72.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 178.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 126.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 104.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 253.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 30.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 172.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 231.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 93.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 282.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 126.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 has downloaded the piece 84 from Peer 1008.
+Now  the number of pieces it has is 243
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 291.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 209.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 137.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 290.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 30.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 195.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 77.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 159.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 273.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 263.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 123.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 146.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 262.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 23.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 86.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 17.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 300.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 161.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 148.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 123.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 172.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 286.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 241.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 254.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 34.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 292.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 117.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 33.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 206.
+
+Fri Dec 11 21:04:27 EST 2020 : Peer 1005 has downloaded the piece 301 from Peer 1008.
+Now  the number of pieces it has is 244
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 298.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 303.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 207.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 127.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 53.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 144.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 42.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 228.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 67.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 264.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 236.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 68.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 65.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 188.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 11.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 132.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 58.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 304.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 160.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 221.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 238.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 297.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 302.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 130.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 31.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 197.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 40.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 78.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 137.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 136.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 46.
+
+Fri Dec 11 21:04:28 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 147.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 231.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 305.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 291.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 61.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 86.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 303.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 233.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 227.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 272.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 22.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 196.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 268.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 135.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 260.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 280.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 157.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 has downloaded the piece 79 from Peer 1002.
+Now  the number of pieces it has is 245
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 163.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 230.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 108.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 163.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 238.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 222.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 58.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 37.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 265.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 11.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 90.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 27.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 255.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 271.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 252.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 has downloaded the piece 55 from Peer 1008.
+Now  the number of pieces it has is 246
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 252.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 242.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 210.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 has downloaded the piece 138 from Peer 1008.
+Now  the number of pieces it has is 247
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 206.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 227.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 116.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 45.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 198.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 141.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 198.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 105.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 46.
+
+Fri Dec 11 21:04:29 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 285.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 165.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 5.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 137.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 64 from Peer 1008.
+Now  the number of pieces it has is 248
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 157.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 223.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 16 from Peer 1008.
+Now  the number of pieces it has is 249
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 184.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 97.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 221.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 84.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 48.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 69.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 28.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 28.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 78.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 261.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 53.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 94.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 267.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 236.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 202 from Peer 1008.
+Now  the number of pieces it has is 250
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 260.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 198.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 64.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 264.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 84.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 122.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 242.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 4.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 173.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 194.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 33.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 253.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 21.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1004.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 270 from Peer 1008.
+Now  the number of pieces it has is 251
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 106.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 299 from Peer 1004.
+Now  the number of pieces it has is 252
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 60.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 250 from Peer 1008.
+Now  the number of pieces it has is 253
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 301.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 39.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 258.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 102 from Peer 1008.
+Now  the number of pieces it has is 254
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 179.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 166.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 has downloaded the piece 216 from Peer 1008.
+Now  the number of pieces it has is 255
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 87.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 229.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 289.
+
+Fri Dec 11 21:04:30 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 297.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 255.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 70.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 250.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 227.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 107.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 303.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 has downloaded the piece 184 from Peer 1002.
+Now  the number of pieces it has is 256
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 186.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 115.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 88.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 120.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 19.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 218.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 255.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 204.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 211.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 153.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 88.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 80.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 142.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 124.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 263.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 52.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 has downloaded the piece 164 from Peer 1008.
+Now  the number of pieces it has is 257
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 215.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 36.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 290.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 101.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 148.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 192.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 213.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 101.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 138.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 66.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 234.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 34.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 156.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 4.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 69.
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 has downloaded the piece 109 from Peer 1008.
+Now  the number of pieces it has is 258
+
+Fri Dec 11 21:04:31 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 18.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 220.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 179.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 269.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 25.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 105.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 301.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 189.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 49.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 55.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 82.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 239.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 has downloaded the piece 91 from Peer 1008.
+Now  the number of pieces it has is 259
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 275.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 302.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 250.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 6.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 64.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 63.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 138.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 167.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 55.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 275.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 124.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 73.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 6.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 16.
+
+Fri Dec 11 21:04:32 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 160.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 256.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 25.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 202.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 270.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 262.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 216.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 48.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 has downloaded the piece 288 from Peer 1008.
+Now  the number of pieces it has is 260
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 262.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 85.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 225.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 has downloaded the piece 214 from Peer 1008.
+Now  the number of pieces it has is 261
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 110.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 239.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 102.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 111.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 190.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 63.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 246.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 66.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 89.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 94.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 64.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 167.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 131.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 216.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 111.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 288.
+
+Fri Dec 11 21:04:33 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 268.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 74.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 132.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 235.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 102.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 270.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 184.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 180.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 59.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 15.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 has downloaded the piece 279 from Peer 1008.
+Now  the number of pieces it has is 262
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 299.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 150.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 109.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 104.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 164.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 79.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 41.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 191.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 278.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 214.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 132.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 151.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 250.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 304.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 288.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 5.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 117.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 91.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 107.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 283.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 8.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1008.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 173.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 37.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 38.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 279.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 141.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 21.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 112.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 202.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 99.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 46.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 164.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 220.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 51.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 100.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 16.
+
+Fri Dec 11 21:04:34 EST 2020 : Peer 1005 has downloaded the piece 51 from Peer 1008.
+Now  the number of pieces it has is 263
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 251.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 57.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 has downloaded the piece 77 from Peer 1008.
+Now  the number of pieces it has is 264
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 15.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 214.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 257.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 45.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 288.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 has downloaded the piece 254 from Peer 1008.
+Now  the number of pieces it has is 265
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 45.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 214.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 266.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 91.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 296.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 279.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 62.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 80.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 136.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 296.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1008 for the piece 226.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 116.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 has downloaded the piece 123 from Peer 1008.
+Now  the number of pieces it has is 266
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 18.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 197.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 111.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 109.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 249.
+
+Fri Dec 11 21:04:35 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 77.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 123.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 157.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 48.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 122.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 123.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 130.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 115.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 123.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 166.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 157 from Peer 1008.
+Now  the number of pieces it has is 267
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 87.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 151.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 77.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 94.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 51.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 257 from Peer 1008.
+Now  the number of pieces it has is 268
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 257.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 97.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 87.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 254.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 97 from Peer 1008.
+Now  the number of pieces it has is 269
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 218.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 130 from Peer 1008.
+Now  the number of pieces it has is 270
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 80.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 153.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 48.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 255.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 254.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 33 from Peer 1008.
+Now  the number of pieces it has is 271
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 290.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 264.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 218.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 33.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 122.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 97.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 186.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 248.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 130.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 122 from Peer 1008.
+Now  the number of pieces it has is 272
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 101.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 142.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 3.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 18.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 63.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 166 from Peer 1008.
+Now  the number of pieces it has is 273
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 212.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 186.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 211.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 94.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 124.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 33.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 36.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 211 from Peer 1008.
+Now  the number of pieces it has is 274
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 36.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 63.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 166.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 has downloaded the piece 153 from Peer 1008.
+Now  the number of pieces it has is 275
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 239.
+
+Fri Dec 11 21:04:36 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 290.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 101.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 94 from Peer 1008.
+Now  the number of pieces it has is 276
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 111.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 241.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 268.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 33.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 153.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 74.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 18 from Peer 1007.
+Now  the number of pieces it has is 277
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 246.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 87.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 48 from Peer 1008.
+Now  the number of pieces it has is 278
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 235.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 80.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 3.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 142 from Peer 1008.
+Now  the number of pieces it has is 279
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 150.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 157.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 278.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 124.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 290 from Peer 1008.
+Now  the number of pieces it has is 280
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 175.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 41.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 268.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 142.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 186 from Peer 1008.
+Now  the number of pieces it has is 281
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 5.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 255.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 51.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 38.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 255 from Peer 1008.
+Now  the number of pieces it has is 282
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 239.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 283.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 74.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 100.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 220.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 150.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 218 from Peer 1008.
+Now  the number of pieces it has is 283
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 112.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 21.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 101 from Peer 1008.
+Now  the number of pieces it has is 284
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 235.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 304.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 135.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 246.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 111.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 21.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 125.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 112.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 112.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 36 from Peer 1008.
+Now  the number of pieces it has is 285
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 226.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 220.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 211.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 38.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 87 from Peer 1008.
+Now  the number of pieces it has is 286
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 41.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 63 from Peer 1008.
+Now  the number of pieces it has is 287
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 5.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1004 for the piece 180.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 180.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 59.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 80 from Peer 1008.
+Now  the number of pieces it has is 288
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 283.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 166.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1009.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 278.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 304.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 218.
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 has downloaded the piece 124 from Peer 1008.
+Now  the number of pieces it has is 289
+
+Fri Dec 11 21:04:37 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 220.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 268.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 36.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1002 for the piece 226.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 184.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 101.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 239.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 69.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 257.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 246 from Peer 1008.
+Now  the number of pieces it has is 290
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 87.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 111 from Peer 1008.
+Now  the number of pieces it has is 291
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 239 from Peer 1008.
+Now  the number of pieces it has is 292
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 182.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 246.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 304 from Peer 1008.
+Now  the number of pieces it has is 293
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 21 from Peer 1008.
+Now  the number of pieces it has is 294
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 142.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 has downloaded the piece 278 from Peer 1008.
+Now  the number of pieces it has is 295
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 153.
+
+Fri Dec 11 21:04:38 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 60.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 5 from Peer 1008.
+Now  the number of pieces it has is 296
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 235 from Peer 1009.
+Now  the number of pieces it has is 297
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 38 from Peer 1008.
+Now  the number of pieces it has is 298
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 109.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 112 from Peer 1008.
+Now  the number of pieces it has is 299
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 304.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 266.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 220 from Peer 1008.
+Now  the number of pieces it has is 300
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 226.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 74 from Peer 1008.
+Now  the number of pieces it has is 301
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 41 from Peer 1008.
+Now  the number of pieces it has is 302
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 122.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 226 from Peer 1008.
+Now  the number of pieces it has is 303
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 150.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 8.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 283 from Peer 1008.
+Now  the number of pieces it has is 304
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 36.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 16.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 180 from Peer 1008.
+Now  the number of pieces it has is 305
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 284.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 290.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 216.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 has downloaded the piece 150 from Peer 1008.
+Now  the number of pieces it has is 306
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 74.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 202.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 270.
+
+Fri Dec 11 21:04:39 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 51.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 102.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 211.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 has downloaded the piece 268 from Peer 1008.
+Now  the number of pieces it has is 307
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 has downloaded the complete file.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 186.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 279.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 254.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 198.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 257.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 180.
+
+Fri Dec 11 21:04:40 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 288.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 265.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 77.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 142.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 180.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 97.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 278.
+
+Fri Dec 11 21:04:41 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 283.
+
+Fri Dec 11 21:04:42 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 148.
+
+Fri Dec 11 21:04:43 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 39.
+
+Fri Dec 11 21:04:43 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 41.
+
+Fri Dec 11 21:04:44 EST 2020 : Peer 1005 received the 'not interested' message from Peer 1007.
+
+Fri Dec 11 21:04:44 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 99.
+
+Fri Dec 11 21:04:44 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 150.
+
+Fri Dec 11 21:04:44 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 97.
+
+Fri Dec 11 21:04:44 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 80.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 166.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 109.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 77.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1009 for the piece 38.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 74.
+
+Fri Dec 11 21:04:45 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 246.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 279.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 283.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 5.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 278.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 122.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 130.
+
+Fri Dec 11 21:04:46 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 91.
+
+Fri Dec 11 21:04:47 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 226.
+
+Fri Dec 11 21:04:48 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 94.
+
+Fri Dec 11 21:04:48 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 235.
+
+Fri Dec 11 21:04:48 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 48.
+
+Fri Dec 11 21:04:49 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 218.
+
+Fri Dec 11 21:04:49 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 254.
+
+Fri Dec 11 21:04:50 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 211.
+
+Fri Dec 11 21:04:50 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 38.
+
+Fri Dec 11 21:04:50 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 157.
+
+Fri Dec 11 21:04:51 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 124.
+
+Fri Dec 11 21:04:55 EST 2020 : Peer 1005 received the 'have' message from Peer 1007 for the piece 21.
+
